@@ -1,0 +1,18 @@
+.main-div {
+    position: relative;
+    margin-top: 50px;
+    border: 1px solid lightgray;
+    border-radius: 18px;
+    overflow: hidden;
+}
+
+.input {
+    margin-right: 10px;
+    padding: 5px;
+    width: 50%;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 24px;
+}
